@@ -1,5 +1,7 @@
 # A Number Theory Application
 
+<div style="text-align:center"><img src = "nt.png" class="center" width="120"></div>
+
 ### An iOS App which let's you calculate Number Theory problems instantaneously
 
 Features:
