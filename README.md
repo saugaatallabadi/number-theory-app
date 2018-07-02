@@ -11,4 +11,4 @@ Features:
 - GCD (Greatest Common Divisor)
 - LCM (Least Common Multiple)
 - Number of Leap Years in a time range
-- What day of week is it
+- Day of the week
