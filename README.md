@@ -2,7 +2,7 @@
 
 <div style="text-align:center"><img src = "nt.png" class="center" width="150"></div>
 
-### An iOS App which let's you calculate Number Theory problems instantaneously
+### An iOS Application which let's you calculate Number Theory problems instantaneously
 
 Features:
 - Euclid's Division Lemma
