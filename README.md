@@ -4,7 +4,7 @@
 
 ### An iOS Application that let's you solve Number Theory problems instantaneously!
 
-Features:
+###### Features:
 - Euclid's Division Lemma
 - Prime or not
 - Inclusion Exclusion Principle
