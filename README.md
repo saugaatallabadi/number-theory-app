@@ -1,6 +1,6 @@
 # A Number Theory Application
 
-<div style="text-align:center"><img src = "nt.png" class="center" width="150"></div>
+<div style="text-align:center"><img src = "nt.png" class="center" width="200"></div>
 
 ### An iOS Application that let's you solve Number Theory problems instantaneously!
 
